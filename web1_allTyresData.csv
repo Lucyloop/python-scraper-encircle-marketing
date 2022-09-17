@@ -1,0 +1,66 @@
+website,tyre_width,tyre_aspect_ratio,tyre_rim_size,tyre_brand,tyre_patten,tyre_size,seasonality,tyre_speed,price(£)
+http://www.dexel.co.uk/,205,55,16,Economy,,205/55VR16 BUDGET VR,summer,V,52.86
+http://www.dexel.co.uk/,205,55,16,Economy,,205/55R16 BUDGET 91H,summer,H,52.86
+http://www.dexel.co.uk/,205,55,16,Economy,,205/55ZR16 BUDGET ZR,summer,W,53.4
+http://www.dexel.co.uk/,205,55,16,Uniroyal,RainSport 5,205/55R16 91H UROYAL RAINSPORT 5,summer,H,68.59
+http://www.dexel.co.uk/,205,55,16,Uniroyal,RainSport 5,205/55R16 91V UROYAL RAINSPORT 5,summer,V,68.95
+http://www.dexel.co.uk/,205,55,16,Hankook,Ventus Prime 3 (K125),205/55R16 91H HANKO K125 PRM3,summer,H,71.2
+http://www.dexel.co.uk/,205,55,16,Economy,,205/55R16 BUDGET WINTER 91H,winter,H,71.94
+http://www.dexel.co.uk/,205,55,16,Hankook,Ventus Prime 3 (K125),205/55R16 91V HANKO K125 PRM3,summer,V,72.87
+http://www.dexel.co.uk/,205,55,16,Uniroyal,RainSport 5,205/55R16 91W UROYAL RAINSPORT 5,summer,W,73.64
+http://www.dexel.co.uk/,205,55,16,Uniroyal,RainSport 5,205/55R16 94V UROYAL RAINSPORT 5 XL,summer,V,75.26
+http://www.dexel.co.uk/,205,55,16,Dexel,Premium Choice,205/55R16 94V DAVANT DX390 XL,summer,V,76.18
+http://www.dexel.co.uk/,205,55,16,Pirelli,Cinturato P7,205/55R16 91V PIREL CINTUR P7,summer,V,76.5
+http://www.dexel.co.uk/,205,55,16,Dexel,Premium Choice,205/55R16 94W DAVANT DX390 XL,summer,W,77.2
+http://www.dexel.co.uk/,205,55,16,Uniroyal,RainSport 3,205/55R16 94Y UROYAL RAINSPORT 3 XL,summer,Y,79.54
+http://www.dexel.co.uk/,205,55,16,Hankook,Ventus Prime 3 (K125),205/55R16 94W HANKO K125 PRM3 XL,summer,W,79.74
+http://www.dexel.co.uk/,205,55,16,Dunlop,SP Sport BluResponse,205/55R16 91V DUNLP BLURESPONSE,summer,V,83.64
+http://www.dexel.co.uk/,205,55,16,Goodyear,EfficientGrip Performance,205/55R16 91H GOODYR EFFIGR PERF,summer,H,83.79
+http://www.dexel.co.uk/,205,55,16,Goodyear,EfficientGrip Performance,205/55R16 91V GOODYR EFFIGR PERF,summer,V,84.4
+http://www.dexel.co.uk/,205,55,16,,,205/55R16 91V GOODYR EFFIGRIP PERF2,summer,V,84.4
+http://www.dexel.co.uk/,205,55,16,Dunlop,SportMaxx RT,205/55R16 91Y DUNLP SPMAXX RT,summer,Y,86.06
+http://www.dexel.co.uk/,205,55,16,Dunlop,SP Sport BluResponse,205/55R16 91W DUNLP BLURESPONSE,summer,W,86.06
+http://www.dexel.co.uk/,205,55,16,Goodyear,EfficientGrip Performance,205/55R16 91W GOODYR EFFIGR PERF,summer,W,86.83
+http://www.dexel.co.uk/,205,55,16,Continental,SportContact 2,205/55R16 91V CONTI SPORT 2 AO,summer,V,88.63
+http://www.dexel.co.uk/,205,55,16,Continental,EcoContact 5,205/55R16 91V CONTI ECOCONTACT 5 MO,summer,V,88.63
+http://www.dexel.co.uk/,205,55,16,Continental,PremiumContact 6,205/55R16 91V CONTI PREMIUM 6,summer,V,88.63
+http://www.dexel.co.uk/,205,55,16,Continental,EcoContact 5,205/55R16 91V CONTI ECOCONTACT 5,summer,V,88.63
+http://www.dexel.co.uk/,205,55,16,Continental,EcoContact 5,205/55R16 91V CONTI ECOCONTACT 5 AO,summer,V,88.63
+http://www.dexel.co.uk/,205,55,16,Continental,EcoContact 6,205/55R16 91V CONTI ECOCONTACT 6,summer,V,88.63
+http://www.dexel.co.uk/,205,55,16,Uniroyal,RainSport 3,205/55R16 91W UROYAL RAINSP3 SSR,summer,W,88.87
+http://www.dexel.co.uk/,205,55,16,Continental,EcoContact 5,205/55R16 91H CONTI ECOCONTACT 5 MO,summer,H,89.19
+http://www.dexel.co.uk/,205,55,16,Continental,PremiumContact 5,205/55R16 91H CONTI PREMIUM 5 #,summer,H,89.19
+http://www.dexel.co.uk/,205,55,16,Continental,PremiumContact 6,205/55R16 91H CONTI PREMIUM 6,summer,H,89.19
+http://www.dexel.co.uk/,205,55,16,Continental,EcoContact 6,205/55R16 91H CONTI ECOCONTACT 6,summer,H,89.19
+http://www.dexel.co.uk/,205,55,16,Bridgestone,Turanza ER300,205/55R16 91V BSTONE ER300 *,summer,V,89.53
+http://www.dexel.co.uk/,205,55,16,Michelin,Primacy 3,205/55R16 91V MICH PRIMACY3,summer,V,89.6
+http://www.dexel.co.uk/,205,55,16,Michelin,Primacy 4,205/55R16 91H MICH PRIMACY4 S1,summer,H,90.0
+http://www.dexel.co.uk/,205,55,16,Michelin,Primacy 4,205/55R16 91H MICH PRIMACY4 S2,summer,H,90.0
+http://www.dexel.co.uk/,205,55,16,Continental,EcoContact 5,205/55R16 91W CONTI ECOCONTACT 5 AO,summer,W,90.02
+http://www.dexel.co.uk/,205,55,16,Continental,PremiumContact 5,205/55R16 91W CONTI PREMIUM 5 AO,summer,W,90.02
+http://www.dexel.co.uk/,205,55,16,Continental,EcoContact 6,205/55R16 91W CONTI ECOCON 6 * QR,summer,W,90.02
+http://www.dexel.co.uk/,205,55,16,Hankook,Ventus Prime 3 (K125),205/55RF16 91W HANKO K125 PRM3 HRS,summer,W,90.78
+http://www.dexel.co.uk/,205,55,16,Bridgestone,Turanza ER300,205/55R16 91H BSTONE ER300 *,summer,H,90.9
+http://www.dexel.co.uk/,205,55,16,Michelin,Energy Saver,205/55R16 91H MICH ENGY SAVER MO,summer,H,91.32
+http://www.dexel.co.uk/,205,55,16,Bridgestone,Turanza T005,205/55R16 91W BSTONE T005,summer,W,91.32
+http://www.dexel.co.uk/,205,55,16,,,205/55R16 91H B/STONE A005 A/SEASON,all season,H,91.81
+http://www.dexel.co.uk/,205,55,16,Michelin,Primacy 4,205/55R16 91W MICH PRIMACY4 *,summer,W,93.44
+http://www.dexel.co.uk/,205,55,16,Michelin,Energy Saver,205/55R16 91W MICH ENGY SAVER *,summer,W,93.45
+http://www.dexel.co.uk/,205,55,16,Pirelli,Cinturato P7,205/55R16 91W PIREL CINTUR P7 RFT *,summer,W,94.22
+http://www.dexel.co.uk/,205,55,16,Pirelli,P7,205/55R16 91W PIREL CINTUR P7 AO,summer,W,95.73
+http://www.dexel.co.uk/,205,55,16,Continental,EcoContact 6,205/55R16 94H CONTI ECOCONTACT 6,summer,H,96.98
+http://www.dexel.co.uk/,205,55,16,Michelin,Cross Climate +,205/55R16 94V MICH XCLIMATE+ XL,all season,V,97.89
+http://www.dexel.co.uk/,205,55,16,Continental,EcoContact 6,205/55R16 94V CONTI ECOCONTACT 6 XL,summer,V,98.05
+http://www.dexel.co.uk/,205,55,16,,,205/55R16 94W GOODYR EG PERF 2 XL,summer,W,99.54
+http://www.dexel.co.uk/,205,55,16,Michelin,Primacy 4,205/55R16 94H MICH PRIMACY4 XL S2,summer,H,99.94
+http://www.dexel.co.uk/,205,55,16,Michelin,Primacy 3,205/55R16 91V MICH PRIMACY3 ZP,summer,V,100.05
+http://www.dexel.co.uk/,205,55,16,Michelin,Primacy 3,205/55R16 91H MICH PRIMACY3 ZP,summer,H,100.05
+http://www.dexel.co.uk/,205,55,16,Michelin,Primacy 3,205/55R16 91W MICH PRIMACY3 ZP,summer,W,102.44
+http://www.dexel.co.uk/,205,55,16,Continental,EcoContact 6,205/55R16 94W CONTI ECOCONTACT 6 XL,summer,W,103.96
+http://www.dexel.co.uk/,205,55,16,Continental,EcoContact 5,205/55R16 94H CONTI ECOCON 5 CS XL,summer,H,104.2
+http://www.dexel.co.uk/,205,55,16,Goodyear,EfficientGrip,205/55R16 91V GOODYR EFFIGR ROF MOE,summer,V,104.38
+http://www.dexel.co.uk/,205,55,16,Continental,eContact (Hybrid cars),205/55R16 91Q CONTI ECONTACT,summer,Q,105.09
+http://www.dexel.co.uk/,205,55,16,Vredestein,Snowtrac 5,205/55R16 91H VSTEIN SNOWTRAC5,winter,H,107.14
+http://www.dexel.co.uk/,205,55,16,Continental,PremiumContact,205/55R16 91V CONTI PREMIUM SSR * #,summer,V,107.9
+http://www.dexel.co.uk/,205,55,16,Continental,EcoContact 6,205/55R16 91W CONT ECOCON 6 SSR*,summer,W,109.7
+http://www.dexel.co.uk/,205,55,16,Michelin,Primacy 4,205/55R16 94V MICH PRIMACY4 XL VOL,summer,V,110.07
