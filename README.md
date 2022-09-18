@@ -1,9 +1,9 @@
 # Test 
 ## Steps to scrape data
-1. Make sure to scrape web data ethically.
-2. Find out where is data in the website? In this test, I scraped two websites, I found that one where data is stored as variable in the script, another one where data is stored in the html.
+1. Scrape web data ethically by setting up user agent.
+2. Find out where the data is in the website. In this test, I scraped two websites, I found that in one website, data is stored as a variable in the script, and in the other, data is stored in the html.
 3. According to how the data is stored, write code to parse data.
-4. Finally, loaded the data into database I designed.
+4. Finally, load the data into the database I designed.
 
 ## Scraped Webs:
 1. http://www.dexel.co.uk/ 
@@ -19,4 +19,4 @@
 1. database: tyres.db (sqlite) 
 2. csv: web1_allTyresData.csv, web2_allTyresData.csv
 
-If you have any questions, please let me know. Thank you for the test!!
+If you have any questions, please let me know. Thank you!!
